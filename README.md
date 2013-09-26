@@ -25,7 +25,7 @@ Testing Shen
 
 Run `Shen.exe` from the previous directory and type the following code:
 
-    (cd "../../Program Test")
+    (cd "../../Test Programs")
     (load "README.shen")
     (load "tests.shen")
 
